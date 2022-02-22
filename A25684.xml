@@ -1,0 +1,839 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aphorismi Urbigerani, or, Certain rules, clearly demonstrating the three infallible ways of preparing the grand elixir, or circulatum majus of the philosophers discovering the secret of secrets, and detecting the errors of vulgar chymists in their operations : contain'd in one hundred and one aphorisms, to which are added The three ways of preparing the vegetable elixir, or, Circulatum minus / all deduc'd from never-erring experience by Baro Urbigerus ...</title>
+            <author>Urbigerus, Baro.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25684</idno>
+            <idno type="STC">Wing A3528</idno>
+            <idno type="STC">ESTC R35727</idno>
+            <idno type="EEBO-CITATION">15553339</idno>
+            <idno type="OCLC">ocm 15553339</idno>
+            <idno type="VID">103690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1582:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aphorismi Urbigerani, or, Certain rules, clearly demonstrating the three infallible ways of preparing the grand elixir, or circulatum majus of the philosophers discovering the secret of secrets, and detecting the errors of vulgar chymists in their operations : contain'd in one hundred and one aphorisms, to which are added The three ways of preparing the vegetable elixir, or, Circulatum minus / all deduc'd from never-erring experience by Baro Urbigerus ...</title>
+                  <author>Urbigerus, Baro.</author>
+                  <author>Faithorne, William, 1616-1691.</author>
+               </titleStmt>
+               <extent>[9], 51, [7], 61-86 [i.e. 84] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Faithorne ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved allegorical frontispiece signed: W.F. [i.e. William Faithorne]</note>
+                  <note>"Circulatum minus Urbigeranum, or, The philosophical elixir of vegetables" (p. [53]-86) has special t.p. and continuous paging.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alchemy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:103690:1" rendition="simple:additions"/>
+            <pb facs="tcp:103690:1"/>
+            <p>
+               <figure>
+                  <q>Virtus unita Fortior</q>
+                  <q>Nil sine vobis</q>
+                  <q>Per Nos omni<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+                  <q>Pulchritudine tuâ captus sum.</q>
+                  <q>Ulteriùs t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vincium.</q>
+                  <q>Per t vi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am</q>
+                  <q>Regeneratio tua in <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Potentia</q>
+                  <byline>WF fe:</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:103690:2"/>
+            <pb facs="tcp:103690:2" rendition="simple:additions"/>
+            <p>
+               <hi>Aphoriſmi <g ref="char:V">Ʋ</g>rbigerani,</hi> Or Certain RULES, Clearly demonſtrating the Three In<g ref="char:EOLhyphen"/>fallible Ways of Preparing the GRAND ELIXIR OR <hi>Circulatum majus</hi> OF THE <hi>Philoſophers,</hi> Diſcovering The Secret of Secrets, AND Detecting the Errors of Vulgar <hi>Chymiſts</hi> in their OPERATIONS:</p>
+            <p>Contain'd in One Hundred and One <hi>Aphoriſms:</hi> To which are added, the Three Ways of Preparing the <hi>Vegetable Elixir</hi> or <hi>Circulatum minus:</hi> All deduc'd from Never-Erring EXPERIENCE</p>
+            <p>By <hi>BARO URBIGERUS,</hi> A Servant of God in the Kingdom of Nature.</p>
+            <q>Experto Crede.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Faithorne,</hi> at the Roſe in St. <hi>Paul</hi>'s Church-yard, 1690.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:103690:3"/>
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jan.</hi> 13. 1689/90.</date>
+               </dateline>
+               <signed>Rob. Midgley.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103690:3"/>
+            <head>TO OUR DEAR DISCIPLES, Honor'd COADEPTS, AND ALL WELL-WISHERS TO OUR <hi>Hermetic Art.</hi>
+            </head>
+            <p>FInding you, dear Sons, who have thrô our means attain'd to the true knowledg of our firſt Mat<g ref="char:EOLhyphen"/>ter, worthy to receive our farther Inſtru<g ref="char:EOLhyphen"/>ctions in the remainder of the Proceſs, to extirpate all ſuch Ambiguities, as you may have conceiv'd in our Abſence, to fa<g ref="char:EOLhyphen"/>cilitate
+<pb facs="tcp:103690:4"/>your Labors, and to precaution you in the bringing your Work to its high<g ref="char:EOLhyphen"/>eſt Perfection, We here, according to your deſire, expoſe to you, and for your ſakes, to the Public, all the moſt infalli<g ref="char:EOLhyphen"/>ble Rules, neceſſary for preventing of Errors in this great Undertaking. And thô you, ever-honor'd <hi>Coadepts,</hi> could never yet ſo far prevail on your ſelves, as to come to a Reſolution of preſenting the World with the full Practice of this our Art, join'd to the Theory, we are ne<g ref="char:EOLhyphen"/>vertheleſs moſt certain, that we ſhall not receive any Reprimand from you for bringing to light theſe our Rules, which we have ſo penn'd, that even thoſe, who know not our Perſon, will not only ſoon perceive, that all, we have written, is the real Truth, clearly ex<g ref="char:EOLhyphen"/>hibiting both the Theory and Practice of the whole <hi>Hermetic</hi> Art, but alſo conclude, that theſe Operations muſt of
+<pb facs="tcp:103690:4"/>neceſſity have very often paſs'd thrô our own hands, from our giving ſuch poſi<g ref="char:EOLhyphen"/>tive Rules, and infallible Inſtructions, elucidating all the moſt obſcure and intri<g ref="char:EOLhyphen"/>cate Enigms of the Philoſophers, and war<g ref="char:EOLhyphen"/>ning them of all the Accidents, that may happen in the working of our Subject: We are, we ſay, confident, you neither will, nor can blame us for this: ſince you will eaſily diſcern, that our De<g ref="char:EOLhyphen"/>ſign is purely to inſtruct our <hi>Diſci<g ref="char:EOLhyphen"/>ples,</hi> and prevent all the <hi>Well-wiſhers</hi> to this moſt noble Art from being im<g ref="char:EOLhyphen"/>pos'd upon, and cheated, by any falſe pre<g ref="char:EOLhyphen"/>tended Adept: to the end that thoſe, who ſhall from the Divine Benignity, by the help of theſe our <hi>Aphoriſms,</hi> or otherwiſe, have receiv'd the bleſſed knowledg of our firſt Matter, which is the very ſame in all our three ways of producing the grand <hi>Elixir,</hi> may thrô theſe our certain Rules obtain
+<pb facs="tcp:103690:5"/>the accompliſhment of their Deſires.</p>
+            <p>Having in our Travels fortun'd to meet with ſome Perſons of true Principles in Philoſophy and Religi<g ref="char:EOLhyphen"/>on, we could not but embrace them, and inſtruct them towards its farther Perfection, which cannot be attai'd without the true knowledg of our Ce<g ref="char:EOLhyphen"/>leſtial Art, by which comprehending all the Myſtery of Myſteries, we learn alſo how to ſerve God in Faith and Truth. And ſince we have no Ob<g ref="char:EOLhyphen"/>ligation to any living Soul for the know<g ref="char:EOLhyphen"/>ledg, we poſſeſs, having attain'd it all by the only Bleſſing of Almighty God on our Industry and Expences: be<g ref="char:EOLhyphen"/>ing therefore at more liberty than thoſe, who receive ſuch a Favor from us, or ſome other <hi>Adept,</hi> 'tis our Deter<g ref="char:EOLhyphen"/>mination, whenever we meet with Per<g ref="char:EOLhyphen"/>ſons ſo qualified, always to do the
+<pb facs="tcp:103690:5"/>ſame. Wherefore being at preſent in <hi>England,</hi> thô we are no Native of this Kingdom, we think it neceſſary to ſet forth theſe our <hi>Aphoriſms</hi> in the <hi>Engliſh</hi> Tongue, not in the leaſt doubting, but that the Knowing, mind<g ref="char:EOLhyphen"/>ing only the Senſe, will eaſily pardon any Impropriety, they may find in our Expreſſions: and when Providence ſhall carry us into any other Country, we, having attain'd to ſome competent knowledg of moſt <hi>European</hi> Langua<g ref="char:EOLhyphen"/>ges, ſhall again take care to publiſh them in the Speech of the Place, where we ſhall be, that we may the ſooner obtain the effect of our Deſires, which aim at nothing, but the undeceiving of the World by ſetting down certain and evident Marks, diſtinguiſhing the Worthy from the Unworthy, and at the bringing of Men to leave their
+<pb facs="tcp:103690:6"/>unneceſſary Forms, by inſtructing them in the true way of Serving God, be<g ref="char:EOLhyphen"/>ing the only means to render them happy both in this World, and the next.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="aphorisms">
+                  <pb n="1" facs="tcp:103690:6"/>
+                  <head>Aphoriſmi Urbigerani, Or Certain <hi>Rules, clearly demonſtrating the Three Infallible Ways of preparing the</hi> Grand Elixir <hi>of the</hi> Philoſophers.</head>
+                  <div n="1" type="aphorism">
+                     <head>I.</head>
+                     <p>THE <hi>Hermetic</hi> Science con<g ref="char:EOLhyphen"/>ſiſts only in the right know<g ref="char:EOLhyphen"/>ledg of the firſt Matter of the Philoſophers, which is in the Mineral Kingdom, not yet deter<g ref="char:EOLhyphen"/>min'd by Nature.</p>
+                  </div>
+                  <div n="2" type="aphorism">
+                     <head>II.</head>
+                     <p>An undetermin'd Matter being the beginning of all Metals and Minerals,
+<pb n="2" facs="tcp:103690:7"/>it follows, that, aſſoon as any one ſhall be ſo happy, as to know and conceive it, he ſhall eaſily comprehend alſo their Na<g ref="char:EOLhyphen"/>tures, Qualities, and Properties.</p>
+                  </div>
+                  <div n="3" type="aphorism">
+                     <head>III.</head>
+                     <p>Althô ſome Perſons, poſſeſs'd with fooliſh Notions, dream, that the firſt Matter is to be found only in ſome par<g ref="char:EOLhyphen"/>ticular places, at ſuch and ſuch times of the year, and by the Virtue of a Magical Magnet; yet we are moſt certain (ac<g ref="char:EOLhyphen"/>cording to our Divine Maſter <hi>Hermes</hi>) that, all theſe Suppoſitions being falſe, it is to be found every where, at all times, and only by our Science.</p>
+                  </div>
+                  <div n="4" type="aphorism">
+                     <head>IV.</head>
+                     <p>The <hi>Hermetic</hi> Art conſiſts in the true Manipulation of our undetermin'd Subject, which before it can be brought to the higheſt degree of Perfection, muſt of neceſſity undergo all our Chymical Operations.</p>
+                  </div>
+                  <div n="5" type="aphorism">
+                     <pb n="3" facs="tcp:103690:7"/>
+                     <head>V.</head>
+                     <p>Our Chymical Operations are theſe, Amalgamation, Sublimation, Diſſolution, Filtration, Cohobation, Diſtillation, Se<g ref="char:EOLhyphen"/>paration, Reverberation, Imbibition, and Digeſtion.</p>
+                  </div>
+                  <div n="6" type="aphorism">
+                     <head>VI.</head>
+                     <p>When we call all theſe Operations ours, they are not all to be underſtood according to the common Operations of the Sophiſters of Metals, whoſe Induſtry conſiſts only in diſguiſing of Subjects from their Form, and their Nature; but ours are really to transfigure our Sub<g ref="char:EOLhyphen"/>ject, yet conſerving its Nature, Quality, and Property.</p>
+                  </div>
+                  <div n="7" type="aphorism">
+                     <head>VII.</head>
+                     <p>This our Subject, after its having paſs'd thrô all thoſe artificial Operations, which always imitate Nature, is call'd the Philoſophers Stone, or the fifth Eſ<g ref="char:EOLhyphen"/>ſence
+<pb n="4" facs="tcp:103690:8"/>of Metals, being compounded of the Eſſence of their four Elements.</p>
+                  </div>
+                  <div n="8" type="aphorism">
+                     <head>VIII.</head>
+                     <p>The Metals and Minerals, which Na<g ref="char:EOLhyphen"/>ture has already determin'd, althô they ſhould be retrogradated into running <hi>Mercury,</hi> Water, and Vapor; yet can they by no means be taken for the firſt Mat<g ref="char:EOLhyphen"/>ter of the Philoſophers.</p>
+                  </div>
+                  <div n="9" type="aphorism">
+                     <head>IX.</head>
+                     <p>Our true and real Matter is only a Vapor, impregnated with the Metalic Seed, yet undetermin'd, created by God Almighty, generated by the Concurrence and Influence of the <hi>Aſtrums,</hi> contain'd in the Bowels of the Earth, as the Matrix of all created things.</p>
+                  </div>
+                  <div n="10" type="aphorism">
+                     <head>X.</head>
+                     <p>This our Matter is call'd undeter<g ref="char:EOLhyphen"/>min'd, becauſe, being a <hi>Medium</hi> between a Metal and a Mineral, and being neither
+<pb n="5" facs="tcp:103690:8"/>of them, it has in it power to produce both, according to the Subject, it meets withal.</p>
+                  </div>
+                  <div n="11" type="aphorism">
+                     <head>XI.</head>
+                     <p>Such a Metalic Vapor, congeal'd and nouriſh'd in the Bowels of the Earth, is call'd the <hi>undetermin'd,</hi> and when it enchants the Serpent with the Beauty of its internal and additional Fire, the <hi>deter<g ref="char:EOLhyphen"/>min'd</hi> Green-Dragon of the Philoſophers; and without the true knowledg and right Manipulation of it nothing can be done in our Art.</p>
+                  </div>
+                  <div n="12" type="aphorism">
+                     <head>XII.</head>
+                     <p>This Green Dragon is the natural Gold of the Philoſophers, exceedingly different from the vulgar, which is cor<g ref="char:EOLhyphen"/>poreal and dead, being come to the peri<g ref="char:EOLhyphen"/>od of its Perfection according to Nature, and therefore uncapable of generating, unleſs it be firſt generated it ſelf by our <hi>Mercurial</hi> Water; but ours is ſpiritual, and living, having the generative Facul<g ref="char:EOLhyphen"/>ty
+<pb n="6" facs="tcp:103690:9"/>in it ſelf, and in its own Nature, and having receiv'd the Maſculine Quality from the Creator of all things.</p>
+                  </div>
+                  <div n="13" type="aphorism">
+                     <head>XIII.</head>
+                     <p>Our Gold is call'd Natural, becauſe it is not to be made by Art, and ſince it is known to none, but the true Diſ<g ref="char:EOLhyphen"/>ciples of <hi>Hermes,</hi> who underſtand how to ſeparate it from its original Lump, 'tis call'd alſo Philoſophical; and if God had not been ſo gracious, as to create this firſt <hi>Chaos</hi> to our hand, all our Skill and Art in the Conſtruction of the great Eli<g ref="char:EOLhyphen"/>xir would be in vain.</p>
+                  </div>
+                  <div n="14" type="aphorism">
+                     <head>XIV.</head>
+                     <p>Out of this our Gold, or <hi>undeter<g ref="char:EOLhyphen"/>min'd</hi> Green-Dragon, without the additi<g ref="char:EOLhyphen"/>on of any other created thing whatſoever, we know how thrô our Univerſal <hi>Men<g ref="char:EOLhyphen"/>ſtruum</hi> to extract all our Elements, or Principles, neceſſary for the performance of our great Work: Which is our firſt way of preparing the Grand Elixir: and
+<pb n="7" facs="tcp:103690:9"/>ſince this our firſt <hi>Chaos</hi> is to be had without any Expence, as coſting only the trouble of digging it out of the Mines, This is not unfitly call'd the on<g ref="char:EOLhyphen"/>ly way of the Poor.</p>
+                  </div>
+                  <div n="15" type="aphorism">
+                     <head>XV.</head>
+                     <p>The Operations in this our firſt way being in a manner the ſame with thoſe of our ſecond, which is, when we join our <hi>determin'd</hi> Dragon with our Serpent, we ſhall (to avoid Repetiti<g ref="char:EOLhyphen"/>ons) in the ſubſequent Aphoriſms give Inſtructions for them both together.</p>
+                  </div>
+                  <div n="16" type="aphorism">
+                     <head>XVI.</head>
+                     <p>Our Serpent, which is alſo contain<g ref="char:EOLhyphen"/>ed in the Bowels of the Earth, being of all created things whatſoever the neareſt ſubject of a Feminine Nature to our Dragon, thrô their Copulati<g ref="char:EOLhyphen"/>on ſuch an aſtral and metalic Seed, con<g ref="char:EOLhyphen"/>taining our Elements, is alſo to be brought forth, as can, thô with ſomewhat more
+<pb n="8" facs="tcp:103690:10"/>of Expence and Time, perform the whole Myſtery of <hi>Hermes.</hi>
+                     </p>
+                  </div>
+                  <div n="17" type="aphorism">
+                     <head>XVII.</head>
+                     <p>Since our Serpent is of all creat<g ref="char:EOLhyphen"/>ed things the neareſt ſubject of Femi<g ref="char:EOLhyphen"/>nine Nature to our Dragon, ſhe is after her Copulation to be taken for the Baſis of our Philoſophical Work: for out of her Bowels, without the help of any other Metal or Mineral, we muſt draw our Principles or Elements, neceſſary to our Work, being retrogradated by the Univerſal <hi>Menſtruum.</hi>
+                     </p>
+                  </div>
+                  <div n="18" type="aphorism">
+                     <head>XVIII.</head>
+                     <p>This Feminine Subject cannot be retrogradated, unleſs to free her from her Impurities, and Heterogeneous Qua<g ref="char:EOLhyphen"/>lities, ſhe is firſt actuated by her Ho<g ref="char:EOLhyphen"/>mogeneous ones, that ſhe may be in a better Capacity to receive the ſpiritual Love of our Green Dragon.</p>
+                  </div>
+                  <div n="19" type="aphorism">
+                     <pb n="9" facs="tcp:103690:10"/>
+                     <head>XIX.</head>
+                     <p>After our Serpent has been bound with her Chain, penetrated with the Blood of our Green-Dragon, and dri<g ref="char:EOLhyphen"/>ven nine, or ten times thrô the combu<g ref="char:EOLhyphen"/>ſtible Fire into the elementary Air, if you do not find her to be exceeding furious, and extremely penetrating, 'tis a ſign, that you do not hit our Subject, the notion of the <hi>Homogenea,</hi> or their Proportion.</p>
+                  </div>
+                  <div n="20" type="aphorism">
+                     <head>XX.</head>
+                     <p>If this furious Serpent, after it has been diſſolv'd by the Univerſal <hi>Menſtruum,</hi> fil<g ref="char:EOLhyphen"/>trated, evaporated, and congeal'd nine or ten times, does not come over in a Cloud, and turn into our Virgin Milk, or Meta<g ref="char:EOLhyphen"/>lic argentin Water, not corroſive at all, and yet inſenſibly, and inviſibly devour<g ref="char:EOLhyphen"/>ing every thing, that comes near it, 'tis plainly to be ſeen, that you err in the No<g ref="char:EOLhyphen"/>tion of our Univerſal <hi>Menſtruum.</hi>
+                     </p>
+                  </div>
+                  <div n="21" type="aphorism">
+                     <pb n="10" facs="tcp:103690:11"/>
+                     <head>XXI.</head>
+                     <p>The Serpent, of which I now ſpeak, is our true Water of the Clouds, or the real Eagle and <hi>Mercury</hi> of the Philoſophers, greatly different from the Vulgar, which is corporeal, groſs, dead, and full of He<g ref="char:EOLhyphen"/>terogeneous Qualities, and a Subject, faln from its Sphere, like unripe Fruit from the Tree; but ours is ſpiritual, tranſpa<g ref="char:EOLhyphen"/>rent, living, reſiding in its own Sphere, like a King on his Throne.</p>
+                  </div>
+                  <div n="22" type="aphorism">
+                     <head>XXII.</head>
+                     <p>Thô the vulgar <hi>Mercury</hi> is ſuch an un<g ref="char:EOLhyphen"/>ripe Fruit, corporeal, and dead; yet if you know how to amalgamate it with our Dragon, and to retrogradate it with the Univerſal <hi>Menſtruum,</hi> you may aſſure your ſelf, that out of this alſo you ſhall be able to prepare a Sophic <hi>Mercury,</hi> with which you ſhall certainly produce the great Elixir, diſcover the Secret of Secrets, unlock the moſt difficult Locks, and com<g ref="char:EOLhyphen"/>mand all the Treaſures in the World.</p>
+                  </div>
+                  <div n="23" type="aphorism">
+                     <pb n="11" facs="tcp:103690:11"/>
+                     <head>XXIII.</head>
+                     <p>Our <hi>Mercury</hi> is called the <hi>Mercury</hi> of the Philoſophers, becauſe it is a Subject, which is not to be found ready prepar'd to our hand: for it muſt of neceſſity be made by our Philoſophical Preparations, out of the firſt <hi>Chaos,</hi> and althô it is Artificial, yet is it naturally prepar'd, Nature, which is imitated in the Prepa<g ref="char:EOLhyphen"/>ration of it, contributing likewiſe there<g ref="char:EOLhyphen"/>unto.</p>
+                  </div>
+                  <div n="24" type="aphorism">
+                     <head>XXIV.</head>
+                     <p>Since our Subject cannot be call'd the fiery Serpent of the Philoſophers, nor have the power of overcoming any creat<g ref="char:EOLhyphen"/>ed thing, before it has receiv'd ſuch Virtue and Quality from our Green-Dragon, and the Univerſal <hi>Menſtruum,</hi> by which it ſelf is firſt overcome, devour'd, and bury'd in their Bowels, out of which being born again, 'tis made capable of the ſame, it follows, that ſuch a Virtue of killing and
+<pb n="12" facs="tcp:103690:12"/>vivifying is natural to our Dragon and the Univerſal <hi>Menſtruum.</hi>
+                     </p>
+                  </div>
+                  <div n="25" type="aphorism">
+                     <head>XXV.</head>
+                     <p>The Univerſal <hi>Menſtruum</hi> of the Philoſophers is that Celeſtial one, with<g ref="char:EOLhyphen"/>out which nothing can live nor ſub<g ref="char:EOLhyphen"/>ſiſt in this World: 'Tis alſo that noble Champion, which delivers the uncorru<g ref="char:EOLhyphen"/>pted Virgin, <hi>Andromeda,</hi> who was with a ſtrong Chain faſtned to the Rock in the power of the Dragon, of whoſe ſpiritu<g ref="char:EOLhyphen"/>al Love having admitted, for fear of be<g ref="char:EOLhyphen"/>ing eternally ruin'd and devour'd by him (which could not have been avoided, if this noble Champion had not come to her aſſiſtance) She is to be deliver'd of a Child, which will be the Wonder of Wonders, and Prodigy of Nature.</p>
+                  </div>
+                  <div n="26" type="aphorism">
+                     <head>XXVI.</head>
+                     <p>If our Virgin in her Confinement, before ſhe is ſet at liberty, does not ma<g ref="char:EOLhyphen"/>nifeſt her extreme Beauty with all her internal, divers, delicate natural Colors,
+<pb n="13" facs="tcp:103690:12"/>wonderfully charming, and very pleaſant to the Eye, it ſignifies, that ſhe has not ſufficiently enjoy'd the ſpiritual Compa<g ref="char:EOLhyphen"/>ny of the Dragon.</p>
+                  </div>
+                  <div n="27" type="aphorism">
+                     <head>XXVII.</head>
+                     <p>If the Univerſal <hi>Menſtruum</hi> has not totally deliver'd the Virgin from the Claws of the Dragon, it is a ſign, ei<g ref="char:EOLhyphen"/>ther that ſhe was not ſufficiently free from her Heterogeneous Qualities, or that ſhe had not receiv'd from the external Heat a ſufficient penetrating Quality, or that the Univerſal <hi>Menſtruum</hi> was too weak to perform its Undertaking.</p>
+                  </div>
+                  <div n="28" type="aphorism">
+                     <head>XXVIII.</head>
+                     <p>To know, whether the Amalgamati<g ref="char:EOLhyphen"/>on, Sublimation, Diſſolution, Filtration, Coagulation, and Diſtillation have been Natural and Philoſophical, the whole Body of the Serpent muſt come over ſpi<g ref="char:EOLhyphen"/>ritual and tranſparent, leaving only ſome few and very light Feces at the bottom, which can by no Art be reduc'd either
+<pb n="14" facs="tcp:103690:13"/>into a running <hi>Mercury,</hi> or any other kind of metallic Subſtance.</p>
+                  </div>
+                  <div n="29" type="aphorism">
+                     <head>XXIX.</head>
+                     <p>After all theſe above-mention'd Ope<g ref="char:EOLhyphen"/>rations, and the Separation, if our Ser<g ref="char:EOLhyphen"/>pent, being amalgamated with any Me<g ref="char:EOLhyphen"/>tal, pure or impure, cannot ſuffer the Fuſion, it will be in vain for you to go any farther with it: for you may aſſure your ſelf, that you do not walk in the true Paths of the <hi>Hermetic</hi> Art.</p>
+                  </div>
+                  <div n="30" type="aphorism">
+                     <head>XXX.</head>
+                     <p>Our Philoſophical Diſtillations con<g ref="char:EOLhyphen"/>ſiſt only in the right Separation of our Spiritual and <hi>Mercurial</hi> Water from all its poiſonous oily Subſtance, which is of no uſe at all in our Art, and from the <hi>Ca<g ref="char:EOLhyphen"/>put Mortuum,</hi> which is left behind after the firſt Diſtillation.</p>
+                  </div>
+                  <div n="31" type="aphorism">
+                     <head>XXXI.</head>
+                     <p>If after the firſt Diſtillation an ex<g ref="char:EOLhyphen"/>ceedingly corroſive and extremely pe<g ref="char:EOLhyphen"/>netrating
+<pb n="15" facs="tcp:103690:13"/>red Oil does not aſeend (which as ſoon as it begins to appear in the Neck of the Retort, the Receiver muſt be chang<g ref="char:EOLhyphen"/>ed) it ſignifies, that the Diſtillation has not been rightly perform'd, and by Con<g ref="char:EOLhyphen"/>ſequence, that the internal Fire of our me<g ref="char:EOLhyphen"/>talic vaporous Water, being burnt up, and corroded by its poiſonous Vapor, and the outward Fire, is ſtill mixt with it, and with the <hi>Caput Mortuum.</hi>
+                     </p>
+                  </div>
+                  <div n="32" type="aphorism">
+                     <head>XXXII.</head>
+                     <p>In caſe you ſhould commit ſo great an Error in the performance of this firſt Diſtillation, althô it will never be in your power to prepare the <hi>Mercury Du<g ref="char:EOLhyphen"/>plex</hi> of the Philoſophers, unleſs you ſhould begin the whole Work again from the very Beginning; yet, if you have any farther Skill in our Art, you may eaſily prepare our <hi>Mercury ſimplex,</hi> with which you will effect great and miraculous things.</p>
+                  </div>
+                  <div n="33" type="aphorism">
+                     <head>XXXIII.</head>
+                     <p>This blood red Oil with its only Fumes penetrates every Part and Atom of all
+<pb n="16" facs="tcp:103690:14"/>Metals and Minerals, and principally of Gold, out of which Diſſolution one may eaſily extract the right Tincture or Eſ<g ref="char:EOLhyphen"/>ſence with highly rectify'd Spirit of Wine, and bring it over the Alembic with it: which is indeed a great Medi<g ref="char:EOLhyphen"/>cine for humane Bodies.</p>
+                  </div>
+                  <div n="34" type="aphorism">
+                     <head>XXXIV.</head>
+                     <p>A deep blood-red Tincture of excel<g ref="char:EOLhyphen"/>lent Virtue is to be extracted alſo out of the above-mention'd <hi>Caput Mortuum,</hi> ac<g ref="char:EOLhyphen"/>cidentally and unfortunately intermixt with the internal Sulphur of our <hi>Mercu<g ref="char:EOLhyphen"/>rial</hi> Water, and with the red Oil, with highly rectify'd Spirit of Wine: with which after it has been evaporated to a Powder, imbib'd, and Philoſophically di<g ref="char:EOLhyphen"/>geſted, you may aſſure your ſelf of having the Medicine of Medicines, next to the great Elixir, by which you may imper<g ref="char:EOLhyphen"/>ceptibly and quickly cure all ſorts of Diſtempers, to the great Admiration of all <hi>Galeniſts,</hi> and to the Aſtoniſhment of all Vulgar Chymiſts.</p>
+                  </div>
+                  <div n="35" type="aphorism">
+                     <pb n="17" facs="tcp:103690:14"/>
+                     <head>XXXV.</head>
+                     <p>The moſt part of the Philoſophers, whilſt their Intention was to go farther to the nobleſt Perfection of our Celeſtial Art, either employ'd this red Oil, brought to a Potability, for internal Medicines, or to external Diſeaſes without any far<g ref="char:EOLhyphen"/>ther Preparation of it, till they had ob<g ref="char:EOLhyphen"/>tain'd the great Elixir.</p>
+                  </div>
+                  <div n="36" type="aphorism">
+                     <head>XXXVI.</head>
+                     <p>If the <hi>Caput Mortuum</hi> has not the Mag<g ref="char:EOLhyphen"/>netic Quality in attracting the <hi>Spiritus Mundi</hi> into it ſelf from the <hi>Aſtrums,</hi> it is a ſign, that at the end of the Diſtillation of the red Oil the outward fire was ſo violent, as quite to burn up the Magnet, which is contain'd in the firſt Feces of our <hi>Mercurial</hi> Water.</p>
+                  </div>
+                  <div n="37" type="aphorism">
+                     <head>XXXVII.</head>
+                     <p>After the firſt Diſtillation, if the leaſt Part of the Virgin <hi>Mercurial</hi> Water can
+<pb n="18" facs="tcp:103690:15"/>by any Art whatſoever be brought to running <hi>Mercury,</hi> or any other kind of a Metalic Subſtance, it is an evident ſign, that either the Subject, or its Preparati<g ref="char:EOLhyphen"/>on and Reduction into Water, has not been real, natural, or Philoſophical.</p>
+                  </div>
+                  <div n="38" type="aphorism">
+                     <head>XXXVIII.</head>
+                     <p>The above-mention'd <hi>Spiritus Mundi,</hi> althô of no uſe at all in this our great Work, is yet a great <hi>Menſtruum</hi> in ex<g ref="char:EOLhyphen"/>tracting of Tinctures out of Metals, Mine<g ref="char:EOLhyphen"/>rals, Animals, and Vegetables, and in per<g ref="char:EOLhyphen"/>forming great things in the Art, volatiliz<g ref="char:EOLhyphen"/>ing all fixt Bodies, and principally Gold.</p>
+                  </div>
+                  <div n="39" type="aphorism">
+                     <head>XXXIX.</head>
+                     <p>A great many Pretenders to the true <hi>Hermetic</hi> Knowledg prepare <hi>Menſtruums,</hi> to diſſolve common <hi>Mercury,</hi> and to turn it into Water ſeveral manner of ways, and by ſeveral additions of Salts, Sul<g ref="char:EOLhyphen"/>phurs, Metals, and Minerals; but, ſince all thoſe Preparations are ſophiſtical, any
+<pb n="19" facs="tcp:103690:15"/>one, expert in our Art, will be able to re<g ref="char:EOLhyphen"/>duce it to its running Quality agian.</p>
+                  </div>
+                  <div n="40" type="aphorism">
+                     <head>XL.</head>
+                     <p>The Quality of our <hi>Mercurial</hi> Water being to volatilize all fixt Bodies, and to fix all thoſe, that are volatil, fixing it ſelf with thoſe, that are fixt, according to the Proportion of it, diſſolving its own Bo<g ref="char:EOLhyphen"/>dy, it unites inſeparably with it, conſerv<g ref="char:EOLhyphen"/>ing always its own Qualities and Proper<g ref="char:EOLhyphen"/>ties, and receives no Augmentation from any other created thing, but only from its crude Body.</p>
+                  </div>
+                  <div n="41" type="aphorism">
+                     <head>XLI.</head>
+                     <p>Our <hi>Mercurial</hi> Water has ſuch a ſym<g ref="char:EOLhyphen"/>pathy with the <hi>Aſirums,</hi> that, if it is not kept very cloſe, and <hi>Hermetically</hi> ſeal'd, it will in a very ſhort time, like a wing'd Serpent, fly away in a wonderful manner to its own Sphere, carrying along with it all the Elements and Principles of Me<g ref="char:EOLhyphen"/>tals, and not leaving ſo much as one ſingle drop, or the leaſt remainder, behind.</p>
+                  </div>
+                  <div n="42" type="aphorism">
+                     <pb n="20" facs="tcp:103690:16"/>
+                     <head>XLII.</head>
+                     <p>Several Pretenders to the Magical Sci<g ref="char:EOLhyphen"/>ence prepare Magical Magnets, to draw from the Air, and (as they pretend) from the <hi>Aſtrums</hi> ſuch <hi>Menſtruums,</hi> as they think neceſſary for the Production of the Great Elixir; but their Magnets being compounded of ſeveral determinate things, althô their <hi>Menſtruums</hi> are great Diſſolvents, yet we do on aſſured know<g ref="char:EOLhyphen"/>ledg affirm, that they can never perform any real Experiment in our Art.</p>
+                  </div>
+                  <div n="43" type="aphorism">
+                     <head>XLIII.</head>
+                     <p>Some are of Opinion, that, unleſs the Operator is Maſter in the Magical Science, and fundamentally underſtands all its Ex<g ref="char:EOLhyphen"/>periments, he will never be able by any other Art whatſoever to bring forth any ſuch things, as can produce the Univerſal Elixir. Now, althô we do not deny, that the Magical Knowledge is requir'd to at<g ref="char:EOLhyphen"/>tain to the higheſt degree of Perfection in all Sciences, yet we are moſt certain,
+<pb n="21" facs="tcp:103690:16"/>that it is not at all neceſſary to the For<g ref="char:EOLhyphen"/>mation of the Grand Elixir upon Ani<g ref="char:EOLhyphen"/>mals, Metals, Precious Stones, and Vege<g ref="char:EOLhyphen"/>tables.</p>
+                  </div>
+                  <div n="44" type="aphorism">
+                     <head>XLIV.</head>
+                     <p>Our Virgin Milk, or Metallic Water, being brought to a perfect Spirituality, and excellent Diaphanity, is call'd the true <hi>Chaos</hi> of the Philoſophers: for out of that alone, without any addition of any created, or artificially prepar'd thing, we are to prepare and ſeparate all the Elements, which are requir'd to the For<g ref="char:EOLhyphen"/>mation of our Philoſophical Microcoſm.</p>
+                  </div>
+                  <div n="45" type="aphorism">
+                     <head>XLV.</head>
+                     <p>To underſtand aright, how out of this our <hi>Chaos</hi> we are to form our Philoſo<g ref="char:EOLhyphen"/>phical Microcoſm, we muſt firſt of neceſ<g ref="char:EOLhyphen"/>ſity rightly comprehend the great My<g ref="char:EOLhyphen"/>ſtery and Proceeding in the Creation of the Macrocoſm: it being extremely ne<g ref="char:EOLhyphen"/>ceſſary to imitate and uſe the very ſame Method in the Creation of our little
+<pb n="22" facs="tcp:103690:17"/>one, that the Creator of all things has us'd in the Formation of the great one.</p>
+                  </div>
+                  <div n="46" type="aphorism">
+                     <head>XLVI.</head>
+                     <p>When our <hi>Chaos</hi> or Celeſtial Water has purify'd it ſelf from its own groſs and palpable Body, it is call'd the Heaven of the Philoſphers, and the palpable Body the Earth, which is void, empty, and dark: And if our Divine Spirit, which is carry'd upon the Face of the Waters, did not bring forth out of the palpable Body that pretious Metalic Seed, we ſhould never be able by any Art whatſo<g ref="char:EOLhyphen"/>ever to go on any farther with the per<g ref="char:EOLhyphen"/>fect Creation of our Microcoſm accord<g ref="char:EOLhyphen"/>ing to our Intent.</p>
+                  </div>
+                  <div n="47" type="aphorism">
+                     <head>XLVII.</head>
+                     <p>This Heaven of the Philoſophers, after it has ſeparated it ſelf from the Earth, containing our Philoſophical Seed, and the Magnet of our Salt of Nature, and from the ſuperfluous Waters, is call'd the <hi>Mercury ſimplex</hi> of the wiſe man: for
+<pb n="23" facs="tcp:103690:17"/>whoſoever attains it, at the ſame time at<g ref="char:EOLhyphen"/>tains alſo the Knowledg and Power of retrogradating Metals, Minerals, <hi>&amp;c.</hi> ſo as to reduce them to their firſt Being, to perfect imperfect Bodies, and to vivifie dead ones, conſerving always its own Property and Quality to it ſelf, and to produce the Great Elixir according to the uſual way of the Philoſophers.</p>
+                  </div>
+                  <div n="48" type="aphorism">
+                     <head>XLVIII.</head>
+                     <p>After we have ſeparated the Water from the Waters, by which I mean the <hi>Mercurial</hi> Celeſtial Water from the ſu<g ref="char:EOLhyphen"/>perfluous Water, which is the Flegm; by the Bleſſing of God and the Infuſion of our holy Spirit, we do not in the leaſt doubt, but we ſhall be able to bring forth out of our Earth ſuch Fruits and Subjects, with which we ſhall certainly perform the whole Creation, carrying our Work to the higheſt Degree of Per<g ref="char:EOLhyphen"/>fection.</p>
+                  </div>
+                  <div n="49" type="aphorism">
+                     <head>XLIX.</head>
+                     <p>Our <hi>Mercurial</hi> Water being of the ſame Brightneſs with the Heavens, and
+<pb n="24" facs="tcp:103690:18"/>our palpable groſs Body, which did ſe<g ref="char:EOLhyphen"/>parate it ſelf from our Celeſtial Water, having the ſame Properties and Quality with the Earth, none, but Ignorants, will deny them to be the right Heaven and true Earth of the Philoſophers.</p>
+                  </div>
+                  <div n="50" type="aphorism">
+                     <head>L.</head>
+                     <p>If, after the Separation of the Spirit from the ſuperfluous Waters, the World, in which it is contain'd, does not appear mighty clear, and full of light, and of the ſame brightneſs with our Celeſtial Water, it is a ſign, that the Separation is not fully perform'd, the Spirit being ſtill intermixt with the Waters.</p>
+                  </div>
+                  <div n="51" type="aphorism">
+                     <head>LI.</head>
+                     <p>If in the ſpace of nine or ten Weeks, or two Philoſophical Months at longeſt, our <hi>Mercurial</hi> Water has not done ſepa<g ref="char:EOLhyphen"/>rating it ſelf from all its own Earth, con<g ref="char:EOLhyphen"/>taining the Metallic Seed, it is an evident ſign, that you have either err'd in the working of it, or that its Digeſtion, hav<g ref="char:EOLhyphen"/>ing
+<pb n="25" facs="tcp:103690:18" rendition="simple:additions"/>been too violent, has confounded and burnt up the principal Subject of the Creation.</p>
+                  </div>
+                  <div n="52" type="aphorism">
+                     <head>LII.</head>
+                     <p>This Philoſophic Earth, containing our principal Subject, after it has been ſeparated from all the Waters, is very gently to be dry'd by ſome external Heat, to free it from its extraneous Humidity, that it may be in a proper Capacity to receive the Celeſtial Moiſture of our Ar<g ref="char:EOLhyphen"/>gentin Water, to which it unites its moſt noble Fruits, with which our Philoſo<g ref="char:EOLhyphen"/>phical Microcoſm is generated, nou<g ref="char:EOLhyphen"/>riſh'd, and ſaturated.</p>
+                  </div>
+                  <div n="53" type="aphorism">
+                     <head>LIII.</head>
+                     <p>If the Earth, after it has been rever<g ref="char:EOLhyphen"/>berated, humected with our Celeſtial Moiſture, does not preſently enrich our Air with the divine expected Fruits, you muſt certainly believe, that in the dry<g ref="char:EOLhyphen"/>ing of it the external Heat has been ſo violent, as to burn up the internal Heat
+<pb n="26" facs="tcp:103690:19"/>and Nature of the Earth, and conſe<g ref="char:EOLhyphen"/>quently ſpoil your Undertaking as to the performance of the whole Myſtery of the Creation, according to the nobleſt, richeſt, ſhorteſt, moſt natural, and ſecret<g ref="char:EOLhyphen"/>eſt ways of the Philoſophers.</p>
+                  </div>
+                  <div n="54" type="aphorism">
+                     <head>LIV.</head>
+                     <p>In caſe the Earth ſhould be totally de<g ref="char:EOLhyphen"/>ſtroy'd by the violent external Heat, al<g ref="char:EOLhyphen"/>thô it is moſt certain, you cannot carry on our noble Creation any farther with it; yet if you know how to amalga<g ref="char:EOLhyphen"/>mate our <hi>Mercury ſimplex</hi> with your common Gold, which is diſſolved, vi<g ref="char:EOLhyphen"/>vify'd, and renew'd by it, you may be ſure of effecting the Great Elixir, althô neither ſo quick, ſo natural, nor ſo rich, as you might have done without it. And this is our third way.</p>
+                  </div>
+                  <div n="55" type="aphorism">
+                     <head>LV.</head>
+                     <p>The Amalgamation of our <hi>Mercury ſimplex</hi> with common Gold conſiſts only in the right Proportion, and in the indiſ<g ref="char:EOLhyphen"/>ſoluble
+<pb n="27" facs="tcp:103690:19"/>Union of both, which is done without any external Heat in a very ſhort time, without which exact Propor<g ref="char:EOLhyphen"/>tion and right Union nothing of any Mo<g ref="char:EOLhyphen"/>ment is to be expected from their Mar<g ref="char:EOLhyphen"/>riage.</p>
+                  </div>
+                  <div n="56" type="aphorism">
+                     <head>LVI.</head>
+                     <p>Know then, that this right Proporti<g ref="char:EOLhyphen"/>on is ten parts of our <hi>Mercury ſimplex</hi> to one of your fineſt common Gold in fi<g ref="char:EOLhyphen"/>lings, which is diſſolved in it, like Ice in common Water, after an impercepti<g ref="char:EOLhyphen"/>ble manner, and as ſoon as the Diſſolu<g ref="char:EOLhyphen"/>tion is over, the Coagulation and Pu<g ref="char:EOLhyphen"/>trefaction preſently follow, which ef<g ref="char:EOLhyphen"/>fects if you find not, 'tis a ſign, that the <hi>Mercury</hi> exceeds its due Proportion. Now when your Gold has been thus well amal<g ref="char:EOLhyphen"/>gamated, united, putrify'd, and inſepa<g ref="char:EOLhyphen"/>rably digeſted with our <hi>Mercury ſimplex,</hi> you will then have only our Philoſophi<g ref="char:EOLhyphen"/>cal Sulphur, in which time one might eaſily have perform'd the whole Work, working without common Gold.</p>
+                  </div>
+                  <div n="57" type="aphorism">
+                     <pb n="28" facs="tcp:103690:20"/>
+                     <head>LVII.</head>
+                     <p>Althô our <hi>Mercury ſimplex</hi> is exceed<g ref="char:EOLhyphen"/>ingly ſpiritual and volatil, yet ſince it is the right Agent, digeſting the Seed or Eſſence of all Metals and Minerals, it will, thô undigeſted, naturally adhere to any of them, althô corporeal, that ſhall come near it, and will never leave it, unleſs it be forc'd away by the Teſt, thô kept in a great Fuſion for many hours.</p>
+                  </div>
+                  <div n="58" type="aphorism">
+                     <head>LVIII.</head>
+                     <p>This <hi>Mercury ſimplex,</hi> which before its retrogradation was of a Feminine Na<g ref="char:EOLhyphen"/>ture, and before it left all its own Earth, was <hi>Hermaphroditic,</hi> being powerful in both Sexes, is now become of a Femi<g ref="char:EOLhyphen"/>nine Quality again, and althô it has loſt the Maſculine viſible Fire, yet it has con<g ref="char:EOLhyphen"/>ſerv'd its own, which is inviſible to us, and with which it performs viſible Ope<g ref="char:EOLhyphen"/>rations in digeſting of imperfect Metals, after its Determination with any of them.</p>
+                  </div>
+                  <div n="59" type="aphorism">
+                     <pb n="29" facs="tcp:103690:20"/>
+                     <head>LIX.</head>
+                     <p>If this our <hi>Mercury</hi> (the Proportion rightly obſerv'd) ſhould be amalgama<g ref="char:EOLhyphen"/>ted with any imperfect Metal, being firſt determin'd with a fixt one, it will rege<g ref="char:EOLhyphen"/>nerate and perfect the ſame, not loſing the leaſt Particle of its Virtue or Quantity: Which Metal after the digeſtion of a Philoſophical Month will (as moſt Philo<g ref="char:EOLhyphen"/>ſophers teach) be able to reſiſt all man<g ref="char:EOLhyphen"/>ner of Tryals, and will be far better than any Natural one.</p>
+                  </div>
+                  <div n="60" type="aphorism">
+                     <head>LX.</head>
+                     <p>The Determination of our <hi>Mercury ſimplex</hi> with any of the fixt Bodies is to be done by diſſolving a ſmall quantity of Filings of red or white according to the Color and Quality of the Metal, that you deſire to meliorate, and if you do not err in the Separation and Union of the Subjects, you may aſſure your ſelf of obtaining your deſire after a Philoſophi<g ref="char:EOLhyphen"/>cal Digeſtion.</p>
+                  </div>
+                  <div n="61" type="aphorism">
+                     <pb n="30" facs="tcp:103690:21"/>
+                     <head>LXI.</head>
+                     <p>To examine aright, whether the <hi>Mer<g ref="char:EOLhyphen"/>cury ſimplex</hi> is rightly prepar'd, or come to its Perfection, one only Drop, put upon a red-hot Plate of Copper, muſt whiten it through and through, and muſt not part with it, althô brought into a great Fuſion: Which, if you find, it does not, it will be a plain Demonſtration, that either your <hi>Mercury</hi> is not well pre<g ref="char:EOLhyphen"/>pared, or that it has not yet done ſepa<g ref="char:EOLhyphen"/>rating it ſelf from its own Earth.</p>
+                  </div>
+                  <div n="62" type="aphorism">
+                     <head>LXII.</head>
+                     <p>If your <hi>Mercury ſimplex,</hi> put upon its own dry'd Earth, does not preſently unite with the Eſſence of Metals, appear<g ref="char:EOLhyphen"/>ing deeper than any Blood, and ſhining brighter than any Fire, which is a mark of the Reception of its own internal Fire, and that the Eagle has ſuckt the Blood of our Red-Lion, it is an evident ſign, that you have err'd in the Manipulation of the Earth.</p>
+                  </div>
+                  <div n="63" type="aphorism">
+                     <pb n="31" facs="tcp:103690:21"/>
+                     <head>LXIII.</head>
+                     <p>This <hi>Mercury,</hi> thus impregnated with its Eſſence, or Sulphur of Metals, is call'd the <hi>Mercury duplex</hi> of the Philoſo<g ref="char:EOLhyphen"/>phers, which is of a far greater Quality, and Virtue than the <hi>ſimplex,</hi> with whoſe Imbibitions in the Salt of Nature, after its being ſaturated with the <hi>ſimplex,</hi> the whole Myſtery of the Creation of the Philoſophical Microcoſm is maintain'd and perfected.</p>
+                  </div>
+                  <div n="64" type="aphorism">
+                     <head>LXIV.</head>
+                     <p>To know, whether your <hi>Mercury du<g ref="char:EOLhyphen"/>plex</hi> is Philoſophically prepar'd, and ſufficiently impregnated with its own internal Natural Fire, put one ſingle Drop of it upon a red-hot Plate of fine Silver: and if the Silver is not by this Drop penetrated through and through with a deep-red Tincture, enduring the greateſt fire of Fuſion, it will ſigni<g ref="char:EOLhyphen"/>fie, that you either fail in the Prepara<g ref="char:EOLhyphen"/>tion of it, or that you have not given
+<pb n="32" facs="tcp:103690:22"/>it time enough to receive a full Satura<g ref="char:EOLhyphen"/>tion out of its own Earth.</p>
+                  </div>
+                  <div n="65" type="aphorism">
+                     <head>LXV.</head>
+                     <p>This deep-red Tincture, extracted out of our Philoſophical Earth, is call'd our Sulphur, our undigeſted, eſſentifi<g ref="char:EOLhyphen"/>cated Gold, our internal elementary Fire, and our Red-Lion: for without its Help and Concurrence our Philoſophical World cannot be nouriſh'd, digeſted, or accompliſh'd, being the right Ground, and true Eſſence of the whole work of our Creation.</p>
+                  </div>
+                  <div n="66" type="aphorism">
+                     <head>LXVI.</head>
+                     <p>When the Earth has loſt its Soul, the remainder of it is the true Magnet, at<g ref="char:EOLhyphen"/>tracting the Salt of Nature from the com<g ref="char:EOLhyphen"/>buſtible Fire after a violent Calcination for ſeveral hours: which Salt, after its Purification and Clarification, is call'd the clarify'd Earth or Salt of the Philoſo<g ref="char:EOLhyphen"/>phers, which, uniting it ſelf with our ſin<g ref="char:EOLhyphen"/>gle and double <hi>Mercury,</hi> after their Di<g ref="char:EOLhyphen"/>geſtion, is call'd by our Maſter <hi>Hermes</hi> the Univerſal Spirit earthify'd.</p>
+                  </div>
+                  <div n="67" type="aphorism">
+                     <pb n="33" facs="tcp:103690:22"/>
+                     <head>LXVII.</head>
+                     <p>The Extraction, Purification, and Cla<g ref="char:EOLhyphen"/>rification of our Earth or Salt of Nature is to be perform'd by our <hi>Mercury ſim<g ref="char:EOLhyphen"/>plex:</hi> which, being put upon the rever<g ref="char:EOLhyphen"/>berated Earth, will preſently draw it to it ſelf, and unite it ſelf with it, yet ſe<g ref="char:EOLhyphen"/>parable by gentle Diſtillation, after which the clarify'd Salt of the Philoſo<g ref="char:EOLhyphen"/>phers is at hand.</p>
+                  </div>
+                  <div n="68" type="aphorism">
+                     <head>LXVIII.</head>
+                     <p>Althô we uſe our <hi>Mercury ſimplex</hi> in the Extraction of its own Soul out of its Body, and for the Clarification of the la<g ref="char:EOLhyphen"/>ter; yet, ſince it is a philoſophical and perpetual <hi>Menſtruum,</hi> it loſes nothing of its connatural Prerogatives, nor does in the leaſt diminiſh in Quantity, being our true <hi>Alkaheſt,</hi> as <hi>Paracelſus</hi> is pleas'd to call it.</p>
+                  </div>
+                  <div n="69" type="aphorism">
+                     <head>LXIX.</head>
+                     <p>Thoſe three Principles, or Elements of our <hi>Chaos,</hi> perfectly ſeparated from
+<pb n="34" facs="tcp:103690:23"/>their Impurities, and brought to their higheſt Perfection, are rightly call'd the three <hi>Herculean</hi> Works: for after the Preparation of them all the Labor, Trou<g ref="char:EOLhyphen"/>ble, and Danger will be paſt.</p>
+                  </div>
+                  <div n="70" type="aphorism">
+                     <head>LXX.</head>
+                     <p>Some fooliſh Operators pretend, that our Great Elixir is to be prepar'd in a very eaſie manner, and without any trou<g ref="char:EOLhyphen"/>ble at all, to whom we will with our Ma<g ref="char:EOLhyphen"/>ſter <hi>Hermes</hi> briefly anſwer, That ſuch Impoſtors neither know our Matter, nor the right Preparation of it. Yet we do not deny, but any Healthy Perſon, of what Age ſoever he may be, may under<g ref="char:EOLhyphen"/>go all our <hi>Herculean</hi> Labors, neceſſary to the Performance of it.</p>
+                  </div>
+                  <div n="71" type="aphorism">
+                     <head>LXXI.</head>
+                     <p>Theſe our Operations are therefore call'd <hi>Herculean</hi> in reſpect to the reſt of the Work, which is exceeding eaſie, and without the leaſt Trouble or Dan<g ref="char:EOLhyphen"/>ger, being for that reaſon call'd Chil<g ref="char:EOLhyphen"/>drens
+<pb n="35" facs="tcp:103690:23"/>Play, becauſe a Child or a Woman, that has any Senſe, may eaſily work it, and bring it to the higheſt Perfection, ac<g ref="char:EOLhyphen"/>cording to the Saying of all true Philo<g ref="char:EOLhyphen"/>ſophers.</p>
+                  </div>
+                  <div n="72" type="aphorism">
+                     <head>LXXII.</head>
+                     <p>Althô all thoſe above-mention'd Ope<g ref="char:EOLhyphen"/>rations are, according to the common O<g ref="char:EOLhyphen"/>pinion of the Philoſophers, eſteem'd dif<g ref="char:EOLhyphen"/>ficult, and dangerous; yet we can up<g ref="char:EOLhyphen"/>on our Conſcience aſſure you, that we have our ſelf alone without the help of any Creature living prepar'd them all on a common Kitchin Fire, as is very well known to ſeveral Coadepts, our Friends, who could not but admire and approve of our Induſtry.</p>
+                  </div>
+                  <div n="73" type="aphorism">
+                     <head>LXXIII.</head>
+                     <p>No true Adept or perfect Artiſt can deny, but that the whole Work of the Great Elixir may from the very begin<g ref="char:EOLhyphen"/>ning to the end be perform'd on one on<g ref="char:EOLhyphen"/>ly Furnace, in one only ſort of Veſſel,
+<pb n="36" facs="tcp:103690:24"/>and by one only Perſon alone, at a ve<g ref="char:EOLhyphen"/>ry ſmall Charge.</p>
+                  </div>
+                  <div n="74" type="aphorism">
+                     <head>LXXIV.</head>
+                     <p>Some Impoſtors would perſwade the Vulgar, that Gold, Silver, and many other Ingredients are requir'd to the making of the Grand Elixir according to our nobleſt ways: which the Doctrines of all the Philoſophers, and our own infallible Rules clearly ſhew to be falſe: for 'tis moſt certain, that we neither uſe any of their Ingredients, nor yet any Sil<g ref="char:EOLhyphen"/>ver, or Gold, (unleſs, as we have menti<g ref="char:EOLhyphen"/>on'd, in our third way) till we come to the Fermentation of our Elixirs.</p>
+                  </div>
+                  <div n="75" type="aphorism">
+                     <head>LXXV.</head>
+                     <p>We do with all true Philoſophers aſ<g ref="char:EOLhyphen"/>ſure you, that all things, neceſſary for our Philoſophical Work, beſides the Fewel, Veſſels, and ſome few Inſtru<g ref="char:EOLhyphen"/>ments, belonging to the Furnace, are to be purchas'd for leſs than the Expence
+<pb n="37" facs="tcp:103690:24"/>of one ſingle Guinea, and that every where, and at all times of the year.</p>
+                  </div>
+                  <div n="76" type="aphorism">
+                     <head>LXXVI.</head>
+                     <p>Since neither Gold nor Silver is to be us'd at all in the Formation and Ci<g ref="char:EOLhyphen"/>bation of our Philoſophical Work, it follows, that the old and common ſay<g ref="char:EOLhyphen"/>ing of ſome Authors, viz. <hi>That without working with Gold 'tis an impoſſible thing to make Gold,</hi> proves to be only a falſe Notion of Men, who underſtood not our Art.</p>
+                  </div>
+                  <div n="77" type="aphorism">
+                     <head>LXXVII.</head>
+                     <p>When our <hi>Herculean</hi> Works are brought to Perfection, which is, when our three Principles, or Elements are prepar'd, purify'd and perfected, unleſs the Philoſophical and unſeparable Union of them is exactly perform'd, the Great Myſtery of our Creation is not to be expected.</p>
+                  </div>
+                  <div n="78" type="aphorism">
+                     <pb n="38" facs="tcp:103690:25"/>
+                     <head>LXXVIII.</head>
+                     <p>Our Principles or Elements being brought to a perfect and unſepara<g ref="char:EOLhyphen"/>ble Union and Digeſtion, it is call'd the Triple <hi>Mercury</hi> of the Philoſophers, which being finiſh'd, the whole Creati<g ref="char:EOLhyphen"/>on and Formation of our work is crown'd.</p>
+                  </div>
+                  <div n="79" type="aphorism">
+                     <head>LXXIX.</head>
+                     <p>All our Work of the Creation from its very Beginning to its perfect End may, on our certain knowledg, be per<g ref="char:EOLhyphen"/>fected in leſs than nine Months by any skilful and careful Artiſt, that follows our Rules, unleſs ſome Accident ſhould happen in the Preparation of our <hi>Hercu<g ref="char:EOLhyphen"/>lean</hi> Works: which to prevent, we wrought them our ſelf in an earthen Veſſel, which we count far better and ſu<g ref="char:EOLhyphen"/>rer than any Glaſs, and which is moſt agreeable to the Practice of the moſt an<g ref="char:EOLhyphen"/>cient Philoſophers.</p>
+                  </div>
+                  <div n="80" type="aphorism">
+                     <pb facs="tcp:103690:25"/>
+                     <head>LXXX.</head>
+                     <p>Before you come to the Union of your Elements, your clarify'd Earth is before all things to be digeſted in a mo<g ref="char:EOLhyphen"/>derate and continual Heat of Aſhes, to free it from any unnatural Moiſture, that it might have attracted after its Purifi<g ref="char:EOLhyphen"/>cation, to be in a fit Capacity to receive your <hi>Mercury ſimplex,</hi> by which it is to be nouriſh'd in its Infancy.</p>
+                  </div>
+                  <div n="81" type="aphorism">
+                     <head>LXXXI.</head>
+                     <p>If your clarify'd Earth, after it has been digeſted the ſpace of a whole Month, does not appear exceeding dry, ſubtil, and frangible, it will ſignifie, that you have fail'd in the Purification or Clarification of it, or that the exter<g ref="char:EOLhyphen"/>nal Moiſture, it had attracted, is not yet parted from it.</p>
+                  </div>
+                  <div n="82" type="aphorism">
+                     <pb n="40" facs="tcp:103690:26"/>
+                     <head>LXXXII.</head>
+                     <p>Take great Care, that you do not begin your Imbibitions of your Earth, before you find it to be very well purify'd, clarify'd, dry'd, and brought to be ve<g ref="char:EOLhyphen"/>ry ſubtil, and extremely frangible: for it would be a great Detriment as well to your Work, as to your <hi>Mercury;</hi> and, althô it ſhould not ſpoil your Work, yet it would be to you a great loſs of Time.</p>
+                  </div>
+                  <div n="83" type="aphorism">
+                     <head>LXXXIII.</head>
+                     <p>After our clarify'd Earth has been brought to a perfect Purity, Dryneſs, and Frangibility, it is to be imbib'd with the eighth part of our <hi>Mercury ſimplex,</hi> or Virgins Milk, which will in a very ſhort time be ſoak'd into it, as into a Sponge, which ſhews the hungry State of our Infant, and then the Fire
+<pb n="41" facs="tcp:103690:26"/>is to be continu'd, till the Infant is hun<g ref="char:EOLhyphen"/>gry again.</p>
+                  </div>
+                  <div n="84" type="aphorism">
+                     <head>LXXXIV.</head>
+                     <p>If in the ſpace of two or three days, or four, at the fartheſt, the Infant does not ſhew it ſelf to be extreme hungry by becoming very dry and frangible again, it will be an evident ſign, that you have overcome it by your exceſſive feeding of it.</p>
+                  </div>
+                  <div n="85" type="aphorism">
+                     <head>LXXXV.</head>
+                     <p>Great care is to be taken alſo in the feeding of the noble Infant: for if you do not well obſerve all our infallible Rules, you will never be able to bring it to a perfect Maturity: for in the Notion and Proportion of our Imbibitions, and the Management of them, the proſpe<g ref="char:EOLhyphen"/>rous
+<pb n="42" facs="tcp:103690:27"/>and unfailable End of our Work is to be expected.</p>
+                  </div>
+                  <div n="86" type="aphorism">
+                     <head>LXXXVI.</head>
+                     <p>'Tis always to be obſerv'd, that the Fire be very moderate, as long as you are making your Imbibitions, for fear of forcing any part of your <hi>Mercury</hi> to leave the Earth: for as a moderate Heat makes the Union between the Soul and the Body, and perfects all the Work: ſo on the contrary a too vio<g ref="char:EOLhyphen"/>lent Heat diſunites and deſtroys all.</p>
+                  </div>
+                  <div n="87" type="aphorism">
+                     <head>LXXXVII.</head>
+                     <p>The Infant being dry, the Imbibition is to be repeated again, and this Method is to be us'd, until the Matter has re<g ref="char:EOLhyphen"/>ceiv'd its weight of the <hi>Mercury:</hi> at which time if you do not find it to flow
+<pb n="43" facs="tcp:103690:27"/>like Wax, and be whiter then any Snow, and very fixt, you muſt proceed with your Imbibitions, until you perceive the ſame.</p>
+                  </div>
+                  <div n="88" type="aphorism">
+                     <head>LXXXVIII.</head>
+                     <p>The Imbibitions are not to be made any oftner, than once every three or four days, in which time you will find your Matter, having ſoak'd up all your <hi>Mercury,</hi> to be in great want of Food, which muſt be ſupply'd, until it be ſatu<g ref="char:EOLhyphen"/>rated: the Mark of which will be, when it flows like Wax again.</p>
+                  </div>
+                  <div n="89" type="aphorism">
+                     <head>LXXXIX.</head>
+                     <p>Your Matter being brought to a per<g ref="char:EOLhyphen"/>fect Fluxibility, uncomparable White<g ref="char:EOLhyphen"/>neſs, and unalterable Fixedneſs, know then, that you have perfectioned the
+<pb n="44" facs="tcp:103690:28"/>white Elixir, which, being fermented with fine Silver in Filings, will be in a Capacity to tranſmute all inferior Me<g ref="char:EOLhyphen"/>tals into the fineſt Silver in the World.</p>
+                  </div>
+                  <div n="90" type="aphorism">
+                     <head>XC.</head>
+                     <p>Before the white Elixir is fermented with common Silver, you may multi<g ref="char:EOLhyphen"/>ply it, as well in Virtue, as in Quantity, by the Continuation of Imbibitions with the <hi>Mercury ſimplex,</hi> by which it may by Degrees be brought <hi>ad Infinitum</hi> in its Virtue.</p>
+                  </div>
+                  <div n="91" type="aphorism">
+                     <head>XCI.</head>
+                     <p>The white Elixir being brought to its Degree of Maturity, deſiring to go on to its higheſt Degree of Perfection, inſtead of fermenting it with Silver, it muſt be eibated with its own Fleſh and
+<pb n="45" facs="tcp:103690:28"/>Blood, which is the double <hi>Mercury,</hi> by which being nouriſh'd, multiply'd in Quality and Quantity, and digeſted, the whole Work is accompliſh'd.</p>
+                  </div>
+                  <div n="92" type="aphorism">
+                     <head>XCII.</head>
+                     <p>As ſoon as the firſt Imbibition is made, you will ſee a great Altera<g ref="char:EOLhyphen"/>tion in your Veſſel: for there will be nothing ſeen but a Cloud, filling the whole ſpace of the Veſſel, the fixt be<g ref="char:EOLhyphen"/>ing in controverſie with the Volatil, and the Volatil with the fixt. The Volatil is Conqueror at the beginning, but at laſt by its own internal Fire, conjoyn'd with the external, both are united, and fixt inſeparably together.</p>
+                  </div>
+                  <div n="93" type="aphorism">
+                     <pb n="46" facs="tcp:103690:29"/>
+                     <head>XCIII.</head>
+                     <p>It is to be obſerved, that the Glaſs Veſſel, which muſt be oval, with a Neck half a foot long, and very ſtrong, be of a fit bigneſs, and of ſuch Capa<g ref="char:EOLhyphen"/>city, that your Matter, when it is put into the Veſſel, may take up only the third part of it, leaving the other two vacant: for, if it ſhould be too big, it would be a great hinderance in performing the Work, and if too little, it would break into a thouſand pieces.</p>
+                  </div>
+                  <div n="94" type="aphorism">
+                     <head>XCIV.</head>
+                     <p>After you have cibated the noble Elixir with your double <hi>Mercury,</hi> be<g ref="char:EOLhyphen"/>fore it can come to its perfect Fixed<g ref="char:EOLhyphen"/>neſs, it muſt of neceſſity wander thrô
+<pb n="47" facs="tcp:103690:29"/>all the States and Colors of Nature, by which we are to judg its Being and Temperament.</p>
+                  </div>
+                  <div n="95" type="aphorism">
+                     <head>XCV.</head>
+                     <p>The conſtant and eſſential Colors, that appear in the Digeſtion of the Mat<g ref="char:EOLhyphen"/>ter, and before it comes to a Perfection, are three, <hi>viz.</hi> Black, which ſignifies the Putrefaction and Conjunction of the Elements; White, which demonſtrates its Purification; and Red, which de<g ref="char:EOLhyphen"/>notes its Maturation. The reſt of the Colors, that appear and diſappear in the Progreſs of the Work, are only ac<g ref="char:EOLhyphen"/>cidental, and unconſtant.</p>
+                  </div>
+                  <div n="96" type="aphorism">
+                     <head>XCVI.</head>
+                     <p>By every Cibation of its own Fleſh and Blood, Regeneration of its Colors, and Digeſtion, the Infant will grow ſtronger and ſtronger, that at laſt being
+<pb n="48" facs="tcp:103690:30"/>fully ſaturated and digeſted, it is call'd the Great Elixir of the Philoſophers, with which you will be able to perform, Wonders in all the Regions, as well Animal, as Mineral, and Vegetable.</p>
+                  </div>
+                  <div n="97" type="aphorism">
+                     <head>XCVII.</head>
+                     <p>When your Elixir is brought to a Fluxibility, and a perfect Fixedneſs, if you deſire to make a Medicine up<g ref="char:EOLhyphen"/>on Metals, you muſt determinate or ferment it with common Gold in Fi<g ref="char:EOLhyphen"/>lings, in which Determination it will vitrify, and then you will have an in<g ref="char:EOLhyphen"/>comparable Medicine, capable to tranſ<g ref="char:EOLhyphen"/>mute all imperfect Metals into the pu<g ref="char:EOLhyphen"/>reſt Gold, according to the Doctrine of all the Philoſophers, thô our ſelf never deſign'd any thing, but an uni<g ref="char:EOLhyphen"/>verſal Remedy for the Cure of all curable Diſeaſes, incident to Human Bodies, as is well known to our Friends, who have enjoy'd the Benefit of theſe our Labors.</p>
+                  </div>
+                  <div n="98" type="aphorism">
+                     <pb n="49" facs="tcp:103690:30"/>
+                     <head>XCVIII.</head>
+                     <p>It is to be obſerv'd in the Fermenta<g ref="char:EOLhyphen"/>tion, that the Elixir exceed not the Fer<g ref="char:EOLhyphen"/>ment in Quantity, otherwiſe the Spon<g ref="char:EOLhyphen"/>ſal Ligament of it cannot be actually perform'd, and when the Ferment is pre<g ref="char:EOLhyphen"/>dominant over the Elixir, all will be preſently turn'd into duſt.</p>
+                  </div>
+                  <div n="99" type="aphorism">
+                     <head>XCIX.</head>
+                     <p>The beſt Method of Fermentation is to take one part of the Elixir, and put it into the midſt of ten parts of Gold in Filings, caſt thrô Antimony, to free it from all its Impurities, and to keep it in a circulary Fire for the ſpace of ſix Hours, ſo increaſing the Fire by De<g ref="char:EOLhyphen"/>grees, that the two laſt hours it be in a good Fuſion, and when cold, you will find all your Matter exceeding frangi<g ref="char:EOLhyphen"/>ble, and of the Color of the Granate-Stone.</p>
+                  </div>
+                  <div n="100" type="aphorism">
+                     <pb n="50" facs="tcp:103690:31"/>
+                     <head>C.</head>
+                     <p>Common <hi>Mercury,</hi> amalgamated with Lead, is counted the moſt proper sub<g ref="char:EOLhyphen"/>ject for making Projection, which be<g ref="char:EOLhyphen"/>ing in Fuſion, your fermented Matter being divided into three parts, one part of it roll'd, in Wax, is to be flung upon the Amalgam: then preſently cover the Crucible, and continue the Fire, until you hear the Noiſe of the Separa<g ref="char:EOLhyphen"/>tion and Union: then the ſecond and third part, as before, and being kept for two hours in a continual Fire of Fu<g ref="char:EOLhyphen"/>ſion, let it cool by it ſelf.</p>
+                  </div>
+                  <div n="101" type="aphorism">
+                     <head>CI.</head>
+                     <p>Whoever ſhall preſume to prepare the Great Elixir according to our moſt Secret Ways without following and ob<g ref="char:EOLhyphen"/>ſerving all theſe our infallible Rules, will certainly find himſelf mightily mi<g ref="char:EOLhyphen"/>ſtaken
+<pb n="51" facs="tcp:103690:31"/>at laſt, having after a great deal of Trouble, Charges, and Pains, reap'd nothing but Diſcontent; and on the contrary they, that ſhall walk in our true and infallible Paths, ſhall with ve<g ref="char:EOLhyphen"/>ry little Trouble and Expences attain to their deſired End, which we cordially wiſh to all thoſe, who are ſincere well<g ref="char:EOLhyphen"/>wiſhers to the <hi>Hermetic</hi> Philoſophy.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:103690:32"/>
+                  <pb facs="tcp:103690:32"/>
+                  <p>
+                     <hi>Circulatum minus Urbigeranum,</hi> OR THE PHILOSOPHICAL ELIXIR OF VEGETABLES, WITH The Three certain Ways of Pre<g ref="char:EOLhyphen"/>paring it, fully and clearly ſet forth in One and Thirty <hi>APHORISMS</hi>
+                  </p>
+                  <p>By <hi>Baro Urbigerus</hi> A Servant of God in the Kingdom of Nature.</p>
+                  <q>Experto Crede.</q>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Henry Faithorne,</hi> at the Roſe in St. <hi>Paul</hi>'s Church-year, 1690.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:103690:33"/>
+                  <pb facs="tcp:103690:33"/>
+                  <head>TO ALL TRUE LOVERS OF THE HERMETIC PHILOSOPHY.</head>
+                  <p>HAving in our Prece<g ref="char:EOLhyphen"/>dent <hi>Aphoriſms</hi> clearly deliver'd ſuch infallible Rules and Inſtructi<g ref="char:EOLhyphen"/>ons, as are neceſſary for pro<g ref="char:EOLhyphen"/>ducing our Grand <hi>Elixir,</hi> or <hi>Circulatum majus,</hi> the only real Secret of the true <hi>Adepts,</hi> commanding in all the King<g ref="char:EOLhyphen"/>doms
+<pb facs="tcp:103690:34"/>of Nature, which will, we queſtion not, be no leſs plea<g ref="char:EOLhyphen"/>ſing to all other lovers of Sci<g ref="char:EOLhyphen"/>ences, than to our Diſciples; and being farther inclin'd fully to inform them, how to preſerve themſelves and others in perfect Health by obviating any Di<g ref="char:EOLhyphen"/>ſtemper, that may otherwiſe o<g ref="char:EOLhyphen"/>vercome them, before they can attain to the Accompliſhment of their Deſires: We have thought it convenient to impart likewiſe to them our three ſeveral ways of making our Vegetable <hi>Elixir,</hi> or <hi>Circulatum minus,</hi> which may be prepar'd, and brought to
+<pb facs="tcp:103690:34"/>its utmoſt Perfection in the ſpace of a Philoſophical Month by any skilful Artiſt, who ſhall comprehend and follow our cer<g ref="char:EOLhyphen"/>tain Directions, laid down in theſe our ſubſequent <hi>Apho<g ref="char:EOLhyphen"/>riſms,</hi> where the whole Work is ſo evidently demonſtrated, that none, who is ever ſo little vers'd in <hi>Chymiſtry,</hi> can be liable to miſtake. Nor do we any way doubt, but all thoſe, who ſhall with a ſincere and upright Intention peruſe theſe our plain<g ref="char:EOLhyphen"/>ly-written <hi>Aphoriſms,</hi> will find themſelves oblig'd to bleſs Al<g ref="char:EOLhyphen"/>mighty God for his infinite Mer<g ref="char:EOLhyphen"/>cy
+<pb facs="tcp:103690:35"/>in having inſpir'd us to open their Eyes, that they may ſee, what is requiſite for their pre<g ref="char:EOLhyphen"/>ſent Health, and future Happi<g ref="char:EOLhyphen"/>neſs, both which we heartily wiſh to every one, who, as be<g ref="char:EOLhyphen"/>comes a true Philoſopher, un<g ref="char:EOLhyphen"/>feignedly loves God and his Neighbor.</p>
+               </div>
+            </front>
+            <body>
+               <div type="aphorisms">
+                  <pb n="61" facs="tcp:103690:35"/>
+                  <head>
+                     <hi>Circulatum minus Urbigeranum,</hi> OR THE PHILOSOPHICAL ELIXIR OF VEGETABLES, WITH The Three certain Ways of Preparing it.</head>
+                  <div n="1" type="aphorism">
+                     <head>I.</head>
+                     <p>OUR <hi>Circulatum minus</hi> in on<g ref="char:EOLhyphen"/>ly a ſpecificated <hi>Elixir,</hi> be<g ref="char:EOLhyphen"/>longing to the Vegetable Kingdom, by which without any Fire, or farther Preparation of the
+<pb n="62" facs="tcp:103690:36"/>Vegetables, we can in a Mo<g ref="char:EOLhyphen"/>ment extract their true Eſſence, con<g ref="char:EOLhyphen"/>taining their Virtue, Quality, and Property: which is a great <hi>Chymical</hi> Curioſity, performing Wonders in the Practice of Phyſick, and in de<g ref="char:EOLhyphen"/>monſtrating ſome Works of Nature.</p>
+                  </div>
+                  <div n="2" type="aphorism">
+                     <head>II.</head>
+                     <p>We call it <hi>Circulatum,</hi> becauſe, thô never ſo often us'd in any Extracti<g ref="char:EOLhyphen"/>on, or <hi>Chymical</hi> Experiment what<g ref="char:EOLhyphen"/>ever, it loſes nothing of its Quality, or Property: which is a Prerogative, pertaining to the Univerſal <hi>Elixir,</hi> call'd alſo the <hi>Circulatum majus,</hi> be<g ref="char:EOLhyphen"/>cauſe it commands in all the three Kingdoms of Nature; whilſt this, being reſtrain'd to one only King<g ref="char:EOLhyphen"/>dom, is for that reaſon ſtil'd <hi>Minus.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="aphorism">
+                     <pb n="63" facs="tcp:103690:36"/>
+                     <head>III.</head>
+                     <p>Out of <hi>Dianas</hi> undetermin'd Tears, when <hi>Apollo</hi> has appear'd, af<g ref="char:EOLhyphen"/>ter the Separation of the three Ele<g ref="char:EOLhyphen"/>ments, Determination, Digeſtion, and glorious Reſurrection, we can, with<g ref="char:EOLhyphen"/>out the Addition of any other created thing, prepare this our deter<g ref="char:EOLhyphen"/>min'd <hi>Elixir:</hi> Which is the firſt, no<g ref="char:EOLhyphen"/>bleſt, and ſecreteſt way of the Philo<g ref="char:EOLhyphen"/>ſophers.</p>
+                  </div>
+                  <div n="4" type="aphorism">
+                     <head>IV.</head>
+                     <p>The Determination of our <hi>Dianas</hi> Tears conſiſts only in their perfect and indiſſoluble Union with the fixt Vegetable Earth, philoſophically pre<g ref="char:EOLhyphen"/>par'd, purify'd, and ſpiritualiz'd: for the love of which they are forc'd to leave their firſt univerſal unde<g ref="char:EOLhyphen"/>termin'd
+<pb n="64" facs="tcp:103690:37"/>Property, and be cloath'd with a determin'd particular one, which is requir'd to this our <hi>Circula<g ref="char:EOLhyphen"/>tum minus.</hi>
+                     </p>
+                  </div>
+                  <div n="5" type="aphorism">
+                     <head>V.</head>
+                     <p>Our ſecond way of preparing this our Vegetable <hi>Elixir</hi> is by a right Manipulation of a Plant of the nobleſt Degree, ſtanding by it ſelf, or ſupported by others: after the Preparation of which, and its Pu<g ref="char:EOLhyphen"/>trefaction, Reduction into an Oil, Separation of the three Principles, with their Purification, Union, and Spiritualization, the whole is to be turn'd into a ſpiritual ever-living Fountain, renewing every Plant, that ſhall be plung'd in it.</p>
+                  </div>
+                  <div n="6" type="aphorism">
+                     <pb n="65" facs="tcp:103690:37"/>
+                     <head>VI.</head>
+                     <p>The third and common way is only a Conjunction of a fixt Vege<g ref="char:EOLhyphen"/>table Salt with its own volatil ſul<g ref="char:EOLhyphen"/>phureous Spirit, both to be found ready prepar'd by any vulgar <hi>Chy<g ref="char:EOLhyphen"/>miſt,</hi> and ſince in their Preparation the pureſt Sulphur, containing the Soul, has ſuffer'd ſome Detriment by their not being philoſophically manipulated, they cannot be inſepa<g ref="char:EOLhyphen"/>rably join'd without a ſulphureous <hi>Medium,</hi> by which the Soul being ſtrengthned, the Body and Spirit are alſo thrô it made capable of a perfect Union.</p>
+                  </div>
+                  <div n="7" type="aphorism">
+                     <head>VII.</head>
+                     <p>The proper <hi>Medium,</hi> requiſite for the indiſſoluble Union of theſe
+<pb n="66" facs="tcp:103690:38"/>two Subjects, is only a ſulphureous and bituminous Matter, iſſuing out of a Plant, living or dead, which is to be found in ſeveral parts of the World, and is known to all manner of Men, (the <hi>Copavian</hi> we find to be the beſt, and after that the <hi>Itali<g ref="char:EOLhyphen"/>an,</hi>) by which, after it has been ſe<g ref="char:EOLhyphen"/>parated from its feculent parts thrô our Univerſal <hi>Menſtruum,</hi> all the Pores and Atoms of the fixt Vege<g ref="char:EOLhyphen"/>table Salt, which is extremely forti<g ref="char:EOLhyphen"/>fied by it, being dilated, it is made capable of receiving its own Spirit, and uniting it ſelf with it.</p>
+                  </div>
+                  <div n="8" type="aphorism">
+                     <head>VIII.</head>
+                     <p>To fortify the Sulphur, and open the Pores of the Salt, no other Me<g ref="char:EOLhyphen"/>thod is to be us'd, but to imbibe the ſame with the bituminous Matter in
+<pb n="67" facs="tcp:103690:38"/>a moderate digeſtive Heat, as if one would hatch Chickens, and as the Salt grows dry, the Imbibitions are to be repeated, until you find it ſo fully ſaturated, that it refuſes to im<g ref="char:EOLhyphen"/>bibe any more of the Matter.</p>
+                  </div>
+                  <div n="9" type="aphorism">
+                     <head>IX.</head>
+                     <p>In the Courſe of Imbibitions the whole Maſs is at leaſt nine or ten times a day to be ſtirr'd with a <hi>Spa<g ref="char:EOLhyphen"/>tula,</hi> or ſome other Inſtrument of dry Wood, by which reiterated Motion, the bituminous Matter re<g ref="char:EOLhyphen"/>ceives a better ingreſs into the Body, and perfects its Operation the ſooner.</p>
+                  </div>
+                  <div n="10" type="aphorism">
+                     <head>X.</head>
+                     <p>Great Care is to be taken, that in the performance of the Imbibiti<g ref="char:EOLhyphen"/>ons,
+<pb n="68" facs="tcp:103690:39"/>no kind of Soil or Duſt fall into your Matter, for the preventi<g ref="char:EOLhyphen"/>on of which your Veſſel may be kept cover'd with a Paper, prickt full of holes, or any other ſuitable Covering, and that nothing come near it, which has its own internal Sul<g ref="char:EOLhyphen"/>phur: for the Pores of the Salt being very much dilated and open'd, it may eaſily determine it ſelf to any other Subject, and ſo ſpoil your Undertak<g ref="char:EOLhyphen"/>ing.</p>
+                  </div>
+                  <div n="11" type="aphorism">
+                     <head>XI.</head>
+                     <p>If in three, or four Weeks time at fartheſt, your fixt Vegetable Salt does not manifeſt its full Saturation, 'twill certainly be in vain for you to go any farther with it: for you may aſſure your ſelf, that you either err in the Notion of the Salt or of the real ſulphureous <hi>Medium,</hi> or in the Management of the Imbibitions.</p>
+                  </div>
+                  <div n="12" type="aphorism">
+                     <pb n="69" facs="tcp:103690:39"/>
+                     <head>XII.</head>
+                     <p>When your Imbibitions are ful<g ref="char:EOLhyphen"/>ly perform'd, your Salt will then be in a convenient readineſs to receive its own Spirit, by which it is made volatil, ſpiritual, tranſparent, and wonderfully penetrating, entring of a ſudden into the Pores and Parti<g ref="char:EOLhyphen"/>cles of every Vegetable, and ſepara<g ref="char:EOLhyphen"/>ting in a moment their true Eſſence or Elements.</p>
+                  </div>
+                  <div n="13" type="aphorism">
+                     <head>XIII.</head>
+                     <p>Althô the Salt is fully prepar'd for the Reception of its own Spirit, yet unleſs you well obſerve the right Proportion of them (which is, that the volatil always predominate over the fixt) you will never be able to
+<pb n="70" facs="tcp:103690:40"/>making any perfect Union between theſe two Subjects, contrary in Quality, thô not in Nature.</p>
+                  </div>
+                  <div n="14" type="aphorism">
+                     <head>XIV.</head>
+                     <p>Before you begin your Deſtillati<g ref="char:EOLhyphen"/>ons and Cohobations, after the Ad<g ref="char:EOLhyphen"/>dition of the Vegetable Spirit to its own Salt, a Putrefaction of eight or ten days is to precede, during which time, the ſulphureous Spirit, ſtrength<g ref="char:EOLhyphen"/>ned by the bituminous Matter, and finding its Salt fir for Conjunction with it, has the power to enter in<g ref="char:EOLhyphen"/>to its Pores, to facilitate its Volati<g ref="char:EOLhyphen"/>lization, and Union.</p>
+                  </div>
+                  <div n="15" type="aphorism">
+                     <head>XV.</head>
+                     <p>If after ſix or ſeven Deſtillations and Cohobations of the deſtill'd
+<pb n="71" facs="tcp:103690:40"/>upon the Remainder, you do not find your Spirit to be extremely ſharp, and the Remainder in the bottom altogether inſipid, it will be an evident Sign, that you fail in the true knowledge of the Vegeta<g ref="char:EOLhyphen"/>ble Spirit, which, being exceeding volatil, has in its Nature power to volatilize its own Body, and unite it ſelf inſeparably with it, finding it capable of its Reception.</p>
+                  </div>
+                  <div n="16" type="aphorism">
+                     <head>XVI.</head>
+                     <p>It is to be obſerv'd, that in the Progreſs of your Deſtillations the ſulphureous <hi>Medium</hi> do not in the leaſt aſcend: for as it is a real <hi>Medium,</hi> concurring to unite the Body with the Spirit, before the Spiritualization of the Body, and without the Con<g ref="char:EOLhyphen"/>currence of which no perfect Union
+<pb n="72" facs="tcp:103690:41"/>of theſe two Subjects is to be expe<g ref="char:EOLhyphen"/>cted; ſo on the contrary in the Pro<g ref="char:EOLhyphen"/>greſs of the Work its Concurrence would be highly diſadvantageous to to them both, and totally ſubvert your Operation.</p>
+                  </div>
+                  <div n="17" type="aphorism">
+                     <head>XVII.</head>
+                     <p>The aſcending of the ſulphureous <hi>Medium,</hi> when the Spirit begins to carry over its own Body, to unite it ſelf inſeparably with it, evidently and certainly ſignifies, that you do not regulate your Fire, as you ſhould, and that, inſtead of giving a gentle vaporous Heat to facilitate the Uni<g ref="char:EOLhyphen"/>on, you give a violent one to de<g ref="char:EOLhyphen"/>ſtroy it.</p>
+                  </div>
+                  <div n="18" type="aphorism">
+                     <pb n="73" facs="tcp:103690:41"/>
+                     <head>XVIII.</head>
+                     <p>When your Salt is brought to its perfect Spiritualization, and real Union with its own volatil Spirit, then you will have in your power your <hi>Circulatum minus,</hi> or Vegetable <hi>Elixir,</hi> and <hi>Menſtruum,</hi> with which you will be able to perform wonders in the Vegetable Kingdom, ſeparat<g ref="char:EOLhyphen"/>ing in a moment not only their Prin<g ref="char:EOLhyphen"/>ciples or Elements, but alſo at one and the ſame Operation the Pure from the Impure.</p>
+                  </div>
+                  <div n="19" type="aphorism">
+                     <head>XIX.</head>
+                     <p>If into this your Vegetable <hi>Elixir</hi> you put any green Vegetable, ſhred in pieces, it will in leſs than half a quarter of an hour without any ex<g ref="char:EOLhyphen"/>ternal Heat putrify, and precipitate
+<pb n="74" facs="tcp:103690:42"/>it ſelf into the bottom quite dead, (which is nothing but the curſed Excremental Earth) and on the Top will ſwim a yellow Oil, con<g ref="char:EOLhyphen"/>taining the Salt and Sulphur, and the <hi>Elixir</hi> will be of the Color of the Plant, comprehending its Ve<g ref="char:EOLhyphen"/>getable Spirit: which if it does not, 'tis a ſign, that your Operations have not been Philoſophical.</p>
+                  </div>
+                  <div n="20" type="aphorism">
+                     <head>XX.</head>
+                     <p>One only drop of this yellowiſh Oil, given in Diſtempers according to the Virtue and Quality, attribu<g ref="char:EOLhyphen"/>ted to the Plant, every Morning and Evening in a Glaſs of Wine, or any other convenient Vehicle, will in<g ref="char:EOLhyphen"/>fallibly and inſenſibly cure thoſe Diſtempers, and corroborate the vi<g ref="char:EOLhyphen"/>tal Spirits, if conſtantly taken to
+<pb n="75" facs="tcp:103690:42"/>purify the Blood in ſickly and infe<g ref="char:EOLhyphen"/>ctious Times.</p>
+                  </div>
+                  <div n="21" type="aphorism">
+                     <head>XXI.</head>
+                     <p>If you put Coral into this <hi>Men<g ref="char:EOLhyphen"/>ſtruum,</hi> you will ſee an admirable Experiment: for althô its Pores are compacter, than in any other Vege<g ref="char:EOLhyphen"/>table; yet it will on a ſudden tranſ<g ref="char:EOLhyphen"/>mit its internal Spirit into the <hi>Men<g ref="char:EOLhyphen"/>ſtruum,</hi> and ſending its Soul and Body, like a blood-red Oil to the Top, will at laſt fall to the Bottom like a grayiſh Excrement.</p>
+                  </div>
+                  <div n="22" type="aphorism">
+                     <head>XXII.</head>
+                     <p>If Myrrh, Aloes, and Saffron, of each an equal Quantity, are put into this <hi>Menſtruum,</hi> the trueſt <hi>Elixir Proprietatis</hi> (as <hi>Paracelſus</hi> terms it) which is a moſt excellent Cordial, and
+<pb n="76" facs="tcp:103690:43"/>almoſt of as great Efficacy and Vir<g ref="char:EOLhyphen"/>tue, as the Univerſal <hi>Elixir</hi> it ſelf, in curing all curable Diſtempers, will preſently ſwim on the Top, and its <hi>Caput Mortuum</hi> will ſeparate it ſelf into the Bottom.</p>
+                  </div>
+                  <div n="23" type="aphorism">
+                     <head>XXIII.</head>
+                     <p>This Vegetable <hi>Menſtruum</hi> diſ<g ref="char:EOLhyphen"/>ſolves not only all ſorts of Gums, or any other kind of Subſtance in the Vegetable Kingdom, but alſo all ſorts of Oils and Balſams, com<g ref="char:EOLhyphen"/>ing out of Trees, ſeparating their true Eſſence, by which you may perform wonderful things both up<g ref="char:EOLhyphen"/>on living Bodies, and dead ones, the laſt of which it preſerves for ever without opening or any farther Pre<g ref="char:EOLhyphen"/>paration of them.</p>
+                  </div>
+                  <div n="24" type="aphorism">
+                     <pb n="77" facs="tcp:103690:43"/>
+                     <head>XXIV.</head>
+                     <p>Thô this <hi>Menſtruum</hi> is only ſpe<g ref="char:EOLhyphen"/>cificated upon Vegetables, it will nevertheleſs in a moment draw the Tincture out of Metals and Mine<g ref="char:EOLhyphen"/>rals; but it will not ſeparate all their Principles, not being the appro<g ref="char:EOLhyphen"/>priated <hi>Menſtruum</hi> for ſuch Opera<g ref="char:EOLhyphen"/>tions; and thô ſuch Sulphurs are highly balſamic for the Lungs and Spleen, yet ſince our <hi>Elixir Proprie<g ref="char:EOLhyphen"/>tatis</hi> far exceeds thoſe praeternatural Preparations, we only give this as a curious Chymical Experiment.</p>
+                  </div>
+                  <div n="25" type="aphorism">
+                     <head>XXV.</head>
+                     <p>Since this Vegetable <hi>Menſtruum</hi> is eternal, you muſt obſerve, that you loſe nothing of its Quantity or Qua<g ref="char:EOLhyphen"/>lity
+<pb n="78" facs="tcp:103690:44"/>in ſeparating of it from the Oil, and Spirit of the Vegetable, which is done by a gentle Deſtillation in <hi>Balneo vaporoſo,</hi> the Veſſel being ve<g ref="char:EOLhyphen"/>ry well luted and dry'd before. The <hi>Menſtruum,</hi> coming over with the Flegm of the Vegetable, from which it is by a Deſtillation in <hi>Balneo</hi> to be ſeparated for farther uſes, leaves the Oil at the Bottom, united with its own Spirit, which will eaſily go over in any common Heat, not leav<g ref="char:EOLhyphen"/>ing any thing behind it: which is a Mark of its Spiritualization, Pu<g ref="char:EOLhyphen"/>rification, and Regeneration, that it has receiv'd from the <hi>Menſtruum.</hi>
+                     </p>
+                  </div>
+                  <div n="26" type="aphorism">
+                     <head>XXVI.</head>
+                     <p>Out of this Oil or Eſſence of your Vegetable ſo prepar'd, or by any other Philoſophical way, (as
+<pb n="79" facs="tcp:103690:44"/>we have mention'd in our ſecond Manner of making this our <hi>Elixir</hi>) if you know how to putrify it natu<g ref="char:EOLhyphen"/>rally without any Fire, and to ſe<g ref="char:EOLhyphen"/>parate all our Principles out of it, purifying and uniting them inſepa<g ref="char:EOLhyphen"/>rably together, being all made ſpi<g ref="char:EOLhyphen"/>ritual and tranſparent, you will then have out of this ſecond Regenerati<g ref="char:EOLhyphen"/>on the greateſt <hi>Arcanum</hi> in the World, as upon Vegetables, ſo alſo upon Minerals and Metals, except Gold and Silver.</p>
+                  </div>
+                  <div n="27" type="aphorism">
+                     <head>XXVII.</head>
+                     <p>If this regenerated Eſſence be de<g ref="char:EOLhyphen"/>termin'd with our firſt Matter, it will then be in a Capacity radically to diſſolve all ſorts of Metals or Minerals, and principally Gold, which is imperceptibly diſſolv'd in
+<pb n="80" facs="tcp:103690:45"/>it, like Ice in common Water, and can never be ſeparated common Gold again, neither by Deſtillati<g ref="char:EOLhyphen"/>on, nor Digeſtion: out of which, after a Philoſophical Digeſtion, Se<g ref="char:EOLhyphen"/>paration of the three Principles, with their Purification, Union, Di<g ref="char:EOLhyphen"/>geſtion, and third Regeneration, you may prepare the great Medicin of Medicins, of equal Virtue and Quality with the Grand <hi>Elixir</hi> upon human Bodies, and with our <hi>Mer<g ref="char:EOLhyphen"/>cury ſimplex,</hi> upon Metals or Mine<g ref="char:EOLhyphen"/>rals.</p>
+                  </div>
+                  <div n="28" type="aphorism">
+                     <head>XXVIII.</head>
+                     <p>The determinating this regene<g ref="char:EOLhyphen"/>rated <hi>Menſtruum</hi> with our firſt Mat<g ref="char:EOLhyphen"/>ter is to be perform'd by its Amal<g ref="char:EOLhyphen"/>gamation with it, in which the Ve<g ref="char:EOLhyphen"/>getable <hi>Menſtruum,</hi> drawing out of it all its Qualities and Properties,
+<pb n="81" facs="tcp:103690:45"/>and uniting them with its own, is made capable of the ſame Virtue and Property, as our <hi>Mercury ſimplex,</hi> in diſſolving and volatilizing eve<g ref="char:EOLhyphen"/>ry created thing, that ſhall come near it.</p>
+                  </div>
+                  <div n="29" type="aphorism">
+                     <head>XXIX.</head>
+                     <p>Some are of Opinion, that both the <hi>Elixirs</hi> may be produc'd out of ſeveral determin'd things, as Human Excrements, <hi>May</hi> drew, (which they call alſo their <hi>Menſtruum</hi> from above, or Water from the Clouds) <hi>&amp;c.</hi> as alſo that the Grand <hi>Elixir</hi> may be prepar'd out of this, or any other Ve<g ref="char:EOLhyphen"/>getable regenerated <hi>Menſtruum;</hi> but ſince we know, that ſuch <hi>Menſtru<g ref="char:EOLhyphen"/>ums,</hi> which they call their Philoſo<g ref="char:EOLhyphen"/>phical <hi>Mercury,</hi> althô they may diſ<g ref="char:EOLhyphen"/>ſolve and volatilize Metals, yet can<g ref="char:EOLhyphen"/>not meliorate any of them, this
+<pb n="82" facs="tcp:103690:46"/>Diſſolution and Volatilization being neither natural nor Philoſophical, we therefore with good Reaſon judge all thoſe Opinions to be only falſe Suppoſitions and ill-grounded and imaginary Notions.</p>
+                  </div>
+                  <div n="30" type="aphorism">
+                     <head>XXX.</head>
+                     <p>We with our Divine Maſter <hi>Hermes</hi> abſolutely affirm, that, Al<g ref="char:EOLhyphen"/>mighty God having, after he had created all things, commanded eve<g ref="char:EOLhyphen"/>ry one of them to procreate out of its own kind, our <hi>Elixirs</hi> are not to be produc'd by any of thoſe ſo<g ref="char:EOLhyphen"/>phiſtical ways, as we have fully made appear in theſe and our prece<g ref="char:EOLhyphen"/>dent <hi>Aphoriſms,</hi> in which we have given ample Inſtructions for the preparing the Univerſal <hi>Elixir</hi> out of our undetermin'd Matter, and
+<pb n="83" facs="tcp:103690:46"/>the ſpecificated one out of the Root of Vegetables.</p>
+                  </div>
+                  <div n="31" type="aphorism">
+                     <head>XXXI.</head>
+                     <p>Out of the true Affection and Charity, we have for all Lovers of Arts, we adviſe every one, who ſhall deſire to prepare either of theſe our <hi>Elixirs,</hi> only to follow our In<g ref="char:EOLhyphen"/>fallible Rules, being the <hi>Compendium</hi> of the whole Practice and Theory according to all true Philoſophers, and not to mind any other: for ſome having deliver'd things by Hearſay, others from Reading, and very few from their own Practice, they may eaſily be impos'd upon and deluded by any <hi>Pſeudochymiſt</hi> or pretended Adept.</p>
+                  </div>
+                  <epigraph>
+                     <q>Experto Crede.</q>
+                  </epigraph>
+               </div>
+            </body>
+         </text>
+      </group>
+      <back>
+         <div type="postscript">
+            <pb n="84" facs="tcp:103690:47"/>
+            <head>A POSTSCRIPT, CONTAINING <hi>An Explanation of the Figure, prefixt to the</hi> Aphoriſmi Urbigerani.</head>
+            <p>HAving in our One Hundred and One <hi>Aphoriſms</hi> ſo perſpicuouſly laid open all the Difficulties, and ſo amply taught the com<g ref="char:EOLhyphen"/>pleat Theory and Practice of the whole <hi>Her<g ref="char:EOLhyphen"/>metic</hi> Myſtery, that any ingenious Lover of Chymiſtry will not only be enabled to under<g ref="char:EOLhyphen"/>ſtand the moſt abſtruſe writings of the Philoſo<g ref="char:EOLhyphen"/>phers, but alſo to effect any real Experiment, which is to be expected in the Progreſs of our Celeſtial Art; and yet being apt to believe, that ſuch, as are not our Diſciples, may per<g ref="char:EOLhyphen"/>haps meet with ſome of the Philoſophical Fi<g ref="char:EOLhyphen"/>gures, the meaning of which they may not ſo eaſily comprehend, we have judg'd it highly expedient, in the Front of this our little Book to place this our Figure, by which, being a perfect <hi>Compendium</hi> of all the Philoſophical Emblems, the reſt may be without any great difficulty underſtood. Now ſince this our Fi<g ref="char:EOLhyphen"/>gure, myſtically repreſenting all our Subjects and Operations, cannot but admit of many and
+<pb n="85" facs="tcp:103690:47"/>various Interpretations, all which if we ſhould here ſet down, our Aphoriſms (where they are already deliver'd, and of which this would then be a Repetition,) would be altogether uſeleſs and inſignificant: we therefore at firſt eſteem'd it very ſuperfluous to give any farther Illuſtration of it. But our deſire being to do all the good, we can, to the Publick, we have on ſecond Thoughts reſolv'd with our wonted Brevity to deliver the following Explanation for the better Comprehenſion both of it and our Aphoriſms.</p>
+            <p>The Tree is a Supporter of the Motto, <hi>Vir<g ref="char:EOLhyphen"/>tus unita fortior:</hi> which, being to be read from the ſide of the Serpent, repreſenting by the Half-Moon on its Head the Planet, under whoſe Influence it is born, is to be referr'd to it according to its particular Motto, which ſig<g ref="char:EOLhyphen"/>nifies, that, if you take it alone, it can do lit<g ref="char:EOLhyphen"/>tle or nothing in our Art, as wanting the Aſ<g ref="char:EOLhyphen"/>ſiſtance of others. By the Green Dragon is to be underſtood our firſt undetermin'd Matter, comprehending all our Principles, (as is de<g ref="char:EOLhyphen"/>monſtrated by the Half-Moon on its Head, the Sun in its Body, and the Croſs on its Tail,) and denoting by its Motto, that it can perform the whole work without being join'd with any other created or artificially prepar'd thing: which is our firſt way. But this our Dragon, when copulating with our Serpent, is forc'd to comply with her, degrading it ſelf from its
+<pb n="86" facs="tcp:103690:48"/>undetermin'd Being for the production of our ſecond way. <hi>Apollo</hi> with the Sun on his head, and <hi>Diana</hi> with the Half-Moon, embracing each other, ſhew our third way, and the Con<g ref="char:EOLhyphen"/>tinuation of our firſt and ſecond. The River, into which they deſcend, ſignifies the State, they muſt be reduc'd into, before they can be in a Capacity of being born again, and before in any of our three ways they can be brought to a perfect Spiritualization and Union. <hi>Apollo</hi> and <hi>Diana,</hi> coming out of the River in one wonderful Body, <hi>Diana</hi> having obtain'd all, repreſent our <hi>Herculean</hi> works, ready finiſh'd, and the beginning of their Conjunction, and by their going to ſet their foot on firm ground, where ſhe is to ſow the noble Fruits for the Procreation, is to be underſtood the Conti<g ref="char:EOLhyphen"/>nuation of their Conjunction, till they are ful<g ref="char:EOLhyphen"/>ly united and perfected. In this Scheme alſo, as well as in our Aphoriſms, are myſtically exhibited all the principal Points of Faith and Religion, compris'd in the Volumes of the Old and New Teſtament: whence it mani<g ref="char:EOLhyphen"/>feſtly appears, that the Contemplation of Na<g ref="char:EOLhyphen"/>ture truly leads to the Comprehenſion of thoſe heavenly Verities, by which alone we can ex<g ref="char:EOLhyphen"/>pect to arrive at the Enjoyment of that bleſ<g ref="char:EOLhyphen"/>ſed Immortality, to which, as to the true and ultimate End of our Creation, all our Endea<g ref="char:EOLhyphen"/>vors are to be directed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103690:48"/>
+         </div>
+      </back>
+   </text>
+</TEI>
